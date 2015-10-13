@@ -266,7 +266,7 @@ a {
     outline-offset: -2px; }
 
 img {
-  vertical-align: middle; }
+  vertical-align: baseline; }
 
 .img-responsive {
   display: block;
